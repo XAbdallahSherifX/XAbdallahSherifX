@@ -2,7 +2,7 @@
 Software Engineer and Computer Science Sophomore at Cairo University. I bridge the gap between academic theory and real-world application. I don't just write code; I build solutions. Specializing in Full Stack development
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIzN3hob3p0ajdrbWZobXhzN2U1OXNxZHZoa2FscnVhZG1qbWM4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="400" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNzdGpkeGYwaTRxeG9zd2NkN2psNmY1amQzZTR2eWFkYnhvazBoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="400" />
 </div>
 
 
