@@ -1,6 +1,10 @@
 # 💫 About Me:
 Software Engineer and Computer Science Sophomore at Cairo University. I bridge the gap between academic theory and real-world application. I don't just write code; I build solutions. Specializing in Full Stack development
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIzN3hob3p0ajdrbWZobXhzN2U1OXNxZHZoa2FscnVhZG1qbWM4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="600" />
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-sherif-2452b9324) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28061531) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsSamuraiFR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:as.abdallah06@gmail.com) 
@@ -22,6 +26,3 @@ Software Engineer and Computer Science Sophomore at Cairo University. I bridge t
 [![](https://visitcount.itsvg.in/api?id=XAbdallahSherifX&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIzN3hob3p0ajdrbWZobXhzN2U1OXNxZHZoa2FscnVhZG1qbWM4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="600" />
-</div>
