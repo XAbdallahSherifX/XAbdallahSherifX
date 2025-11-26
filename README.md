@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/23775236/ReadMe.md)
 # 💫 About Me:
 Software Engineer and Computer Science Sophomore at Cairo University. I bridge the gap between academic theory and real-world application. I don't just write code; I build solutions. Specializing in Full Stack development
 
