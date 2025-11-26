@@ -22,4 +22,3 @@ Software Engineer and Computer Science Sophomore at Cairo University. I bridge t
 [![](https://visitcount.itsvg.in/api?id=XAbdallahSherifX&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div class="tenor-gif-embed" data-postid="12917678100156115102" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/tuff-tuff-baby-ai-baby-ai-generated-meme-gif-12917678100156115102">Tuff Tuff Baby GIF</a>from <a href="https://tenor.com/search/tuff-gifs">Tuff GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
