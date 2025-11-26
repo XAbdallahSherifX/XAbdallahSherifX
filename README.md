@@ -22,3 +22,6 @@ Software Engineer and Computer Science Sophomore at Cairo University. I bridge t
 [![](https://visitcount.itsvg.in/api?id=XAbdallahSherifX&icon=5&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnIzN3hob3p0ajdrbWZobXhzN2U1OXNxZHZoa2FscnVhZG1qbWM4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="600" />
+</div>
